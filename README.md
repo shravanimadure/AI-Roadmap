@@ -1,4 +1,3 @@
-![Uploading image.png…]()
 
 Week 1-2: Data Collection & Processing
 
