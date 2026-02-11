@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 Week 1-2: Data Collection & Processing
 
 Connect to database using Python to pull user watch history
